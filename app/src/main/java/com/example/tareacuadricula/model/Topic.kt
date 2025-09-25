@@ -1,5 +1,4 @@
-package com.example.cuadricula.model
-
+package com.example.tareacuadricula.model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes

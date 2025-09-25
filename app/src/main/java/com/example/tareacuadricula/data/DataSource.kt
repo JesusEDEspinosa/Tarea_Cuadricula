@@ -1,7 +1,7 @@
-package com.example.cuadricula.data
+package com.example.tareacuadricula.data
 
-import com.example.cuadricula.R
-import com.example.cuadricula.model.Topic
+import com.example.tareacuadricula.R
+import com.example.tareacuadricula.model.Topic
 
 object DataSource {
     val topics = listOf(
